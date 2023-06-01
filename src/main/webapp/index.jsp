@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red,yellow,black'>Hi Good Evening..... Welcome to Jai TDP Club <font></h1>
+<h1><font color='gold,yellow,'>Hi Good Evening..... Welcome to Jai TDP Club <font></h1>
 <h2>Thank you Rahul kanna </h2>
 <h3>Call Akhil to join the call </h3>
 
